@@ -1,3 +1,11 @@
+--[[
+Title: Programming Style Exercise - TheOne
+Authors: Hugo Rodrigues Manhães (Reviewer), Jordan Rodrigues Rangel (Writer)
+Date: 04/05/2017
+Version: 1.0
+Size: 8.180 bytes
+]]--
+
 local TheOne = {}
 TheOne.__index = TheOne
 
