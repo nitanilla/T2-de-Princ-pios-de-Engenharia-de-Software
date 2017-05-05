@@ -1,3 +1,11 @@
+--[[
+Title: Programming Style Exercise - Aspects
+Authors: Hugo Rodrigues Manhães (Reviewer), Jordan Rodrigues Rangel (Writer)
+Date: 04/05/2017
+Version: 1.0
+Size: 5.444 bytes
+]]--
+
 function extractWords(pathToFile)
 	--[[
 	Pre-condition:	The function receives a valid non-empty string that
