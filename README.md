@@ -1,7 +1,10 @@
 # T2-de-Princ-pios-de-Engenharia-de-Software
 
+# Diagrama Pipeline
 ![alt tag](https://raw.githubusercontent.com/HipsterHiken/T2-de-Princ-pios-de-Engenharia-de-Software/master/Diagrama%20Princípios%20de%20Engenharia%20de%20Software%20G1.png)
 
+# Diagrama The One
+![alt tag](https://raw.githubusercontent.com/HipsterHiken/T2-de-Princ-pios-de-Engenharia-de-Software/master/DiagramaTheOne.png)
 
 # Livro Diário
 
