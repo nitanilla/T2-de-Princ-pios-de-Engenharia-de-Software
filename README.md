@@ -6,6 +6,9 @@
 # Diagrama The One
 ![alt tag](https://raw.githubusercontent.com/HipsterHiken/T2-de-Princ-pios-de-Engenharia-de-Software/master/DiagramaTheOne.png)
 
+# Diagrama Things
+![alt tag](https://raw.githubusercontent.com/HipsterHiken/T2-de-Princ-pios-de-Engenharia-de-Software/master/DiagramaThings.png)
+
 # Livro Diário
 
 25 de Abril
