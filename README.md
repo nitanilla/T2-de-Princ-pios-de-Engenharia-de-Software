@@ -9,6 +9,9 @@
 # Diagrama Things
 ![alt tag](https://raw.githubusercontent.com/HipsterHiken/T2-de-Princ-pios-de-Engenharia-de-Software/master/DiagramaThings.png)
 
+# Diagrama Aspects
+![alt tag](https://raw.githubusercontent.com/HipsterHiken/T2-de-Princ-pios-de-Engenharia-de-Software/master/DiagramaAspects.png)
+
 # Livro Diário
 
 25 de Abril
