@@ -92,6 +92,11 @@ function removeStopWords(wordTable)
 	
 	stopWordsTable = {}
 	
+	--revisão Roxana
+	--segundo o livro, neste estilo os caracteres alphanumericos não são filtrados da lista de stopwords
+	--nesta mesma função, o lowercase deve ser aplicado nos stopwords
+	--veja na página 41 do estilo a restrição do estilo "No shared state between functions"
+	--a linha 99 o filterCharsAndNormalize() manda a lista de stopwords para ser filtrado e normalizado (lowercase)
 	for stopWordsTableElement in string.gmatch(filterCharsAndNormalize(stringData), "%S+") do
 		table.insert(stopWordsTable, stopWordsTableElement)
 	end
