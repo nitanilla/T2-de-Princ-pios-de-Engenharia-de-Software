@@ -92,7 +92,9 @@ function removeStopWords(wordTable)
 	
 	stopWordsTable = {}
 	
-	for stopWordsTableElement in string.gmatch(filterCharsAndNormalize(stringData), "%S+") do
+	normalizedString = string.gsub(stringData, '[^a-zA-Z0-9]', ' ')
+	
+	for stopWordsTableElement in string.gmatch(normalizedString, "%S+") do
 		table.insert(stopWordsTable, stopWordsTableElement)
 	end
 	
@@ -180,4 +182,4 @@ function printAllSorted(wordFrequencies)
 	end
 end
 
-printAllSorted(frequencies(removeStopWords(scan(filterCharsAndNormalize(readFile("text.txt"))))))
+printAllSorted(frequencies(removeStopWords(scan(filterCharsAndNormalize(readFile(io.read("*a")))))))
