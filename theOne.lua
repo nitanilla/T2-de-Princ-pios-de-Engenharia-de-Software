@@ -234,3 +234,4 @@ theOne:bind(removeStopWords)
 theOne:bind(frequencies)
 theOne:bind(top25SortedFrequencies)
 theOne:printSelf()
+-- ver comentarios no pull-request
