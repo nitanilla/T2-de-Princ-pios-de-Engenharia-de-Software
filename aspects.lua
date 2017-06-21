@@ -150,3 +150,4 @@ for _, wordFrequency in pairs(wordFrequencies) do
 		break
 	end
 end
+--ver comentarios no pull-request
